@@ -88,22 +88,6 @@ def GeneratePassword():
     #ExportPassword(Password)
     AskGenerateAgain()
 
-
-"""
-# EXPORT THE GENERATED PASSWORD INTO A TEXT FILE
-def ExportPassword(P_Password):
-    Password = P_Password
-
-    Filename = input("Save the file as: ")
-    Filename += ".txt"
-
-    print(" ")
-
-    with open(Filename, 'w') as PasswordFile:
-        PasswordFile.write(Password)
-        PasswordFile.close()
-"""
-
       
 # ASK IF THE USER WANTS TO GENERATE A NEW RANDOM PASSWORD
 def AskGenerateAgain():
