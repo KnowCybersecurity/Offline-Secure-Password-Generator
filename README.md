@@ -1,4 +1,8 @@
-Offline Secure Password Generator was made for and during ConUHacks' 2023 Hackathon.
+## About this product
+Offline Secure Password Generator was created during ConUHacks' 2023 Hackathon for CSE's password challenge.
+
+## How it works
+Just simply download the included Secret Password Generator.py file and run it locally on your computer. After running the program, a terminal window running Python should pop up and voila!
 
 ## My inspiration(s)
 Mostly what inspired and motivated me to participate in this year's ConUHacks' hackathon event, even though I'm not as good as everybody else that attended, is my passion for cybersecurity, networking and creating.
